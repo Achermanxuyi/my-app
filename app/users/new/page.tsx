@@ -6,4 +6,4 @@ const NewUserPage = () => {
   )
 }
 
-export default NewUserPage
+export default NewUserPage 
